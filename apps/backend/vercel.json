@@ -4,7 +4,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/frontend/docs/"
+      "destination": "https://tov.monster"
     }
   ]
 }
